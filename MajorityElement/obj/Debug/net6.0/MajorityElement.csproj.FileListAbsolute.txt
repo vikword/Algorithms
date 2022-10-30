@@ -1,0 +1,15 @@
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\bin\Debug\net6.0\MajorityElement.exe
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\bin\Debug\net6.0\MajorityElement.deps.json
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\bin\Debug\net6.0\MajorityElement.runtimeconfig.json
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\bin\Debug\net6.0\MajorityElement.dll
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\bin\Debug\net6.0\MajorityElement.pdb
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\obj\Debug\net6.0\MajorityElement.csproj.AssemblyReference.cache
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\obj\Debug\net6.0\MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\obj\Debug\net6.0\MajorityElement.AssemblyInfoInputs.cache
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\obj\Debug\net6.0\MajorityElement.AssemblyInfo.cs
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\obj\Debug\net6.0\MajorityElement.csproj.CoreCompileInputs.cache
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\obj\Debug\net6.0\MajorityElement.dll
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\obj\Debug\net6.0\refint\MajorityElement.dll
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\obj\Debug\net6.0\MajorityElement.pdb
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\obj\Debug\net6.0\MajorityElement.genruntimeconfig.cache
+C:\Users\vikwo\RiderProjects\Algorithms\MajorityElement\obj\Debug\net6.0\ref\MajorityElement.dll

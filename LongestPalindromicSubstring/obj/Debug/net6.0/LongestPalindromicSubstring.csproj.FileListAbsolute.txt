@@ -1,0 +1,15 @@
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\bin\Debug\net6.0\LongestPalindromicSubstring.exe
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\bin\Debug\net6.0\LongestPalindromicSubstring.deps.json
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\bin\Debug\net6.0\LongestPalindromicSubstring.runtimeconfig.json
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\bin\Debug\net6.0\LongestPalindromicSubstring.dll
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\bin\Debug\net6.0\LongestPalindromicSubstring.pdb
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\obj\Debug\net6.0\LongestPalindromicSubstring.csproj.AssemblyReference.cache
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\obj\Debug\net6.0\LongestPalindromicSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\obj\Debug\net6.0\LongestPalindromicSubstring.AssemblyInfoInputs.cache
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\obj\Debug\net6.0\LongestPalindromicSubstring.AssemblyInfo.cs
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\obj\Debug\net6.0\LongestPalindromicSubstring.csproj.CoreCompileInputs.cache
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\obj\Debug\net6.0\LongestPalindromicSubstring.dll
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\obj\Debug\net6.0\refint\LongestPalindromicSubstring.dll
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\obj\Debug\net6.0\LongestPalindromicSubstring.pdb
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\obj\Debug\net6.0\LongestPalindromicSubstring.genruntimeconfig.cache
+C:\Users\vikwo\RiderProjects\Algorithms\LongestPalindromicSubstring\obj\Debug\net6.0\ref\LongestPalindromicSubstring.dll

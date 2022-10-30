@@ -1,0 +1,15 @@
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\bin\Debug\net6.0\ValidParentheses.exe
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\bin\Debug\net6.0\ValidParentheses.deps.json
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\bin\Debug\net6.0\ValidParentheses.runtimeconfig.json
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\bin\Debug\net6.0\ValidParentheses.dll
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\bin\Debug\net6.0\ValidParentheses.pdb
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\obj\Debug\net6.0\ValidParentheses.csproj.AssemblyReference.cache
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\obj\Debug\net6.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\obj\Debug\net6.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\obj\Debug\net6.0\ValidParentheses.AssemblyInfo.cs
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\obj\Debug\net6.0\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\obj\Debug\net6.0\ValidParentheses.dll
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\obj\Debug\net6.0\refint\ValidParentheses.dll
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\obj\Debug\net6.0\ValidParentheses.pdb
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\obj\Debug\net6.0\ValidParentheses.genruntimeconfig.cache
+C:\Users\vikwo\RiderProjects\Algorithms\ValidParentheses\obj\Debug\net6.0\ref\ValidParentheses.dll

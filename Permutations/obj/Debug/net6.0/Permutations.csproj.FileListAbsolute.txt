@@ -1,0 +1,15 @@
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\bin\Debug\net6.0\Permutations.exe
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\bin\Debug\net6.0\Permutations.deps.json
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\bin\Debug\net6.0\Permutations.runtimeconfig.json
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\bin\Debug\net6.0\Permutations.dll
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\bin\Debug\net6.0\Permutations.pdb
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\obj\Debug\net6.0\Permutations.csproj.AssemblyReference.cache
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\obj\Debug\net6.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\obj\Debug\net6.0\Permutations.AssemblyInfoInputs.cache
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\obj\Debug\net6.0\Permutations.AssemblyInfo.cs
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\obj\Debug\net6.0\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\obj\Debug\net6.0\Permutations.dll
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\obj\Debug\net6.0\refint\Permutations.dll
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\obj\Debug\net6.0\Permutations.pdb
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\obj\Debug\net6.0\Permutations.genruntimeconfig.cache
+C:\Users\vikwo\RiderProjects\Algorithms\Permutations\obj\Debug\net6.0\ref\Permutations.dll
