@@ -1,4 +1,7 @@
-﻿int SingleNumber(IReadOnlyList<int> a)
+﻿using System;
+using System.Collections.Generic;
+
+int SingleNumber(IEnumerable<int> a)
 {
     var result = 0;
     foreach (var t in a)
@@ -9,4 +12,4 @@
     return result;
 }
 
-Console.WriteLine(SingleNumber(new[] { 4, 1, 2, 1, 2 }));
+Console.WriteLine(SingleNumber(new[] { 4, 4, 1, 2, 1, 2, 3, 3, 5, 0, 0, 5, 9, 8, 9, 8, 6 }));

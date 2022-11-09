@@ -1,4 +1,6 @@
-﻿string LongestPalindromicSubstring(string input)
+﻿using System;
+
+string LongestPalindromicSubstring(string input)
 {
     // var count = 0;
     // for (int i = 0, j = input.Length; i < input.Length / 2 + 1; i++, j--)

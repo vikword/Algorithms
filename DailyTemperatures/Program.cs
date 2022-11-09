@@ -1,4 +1,7 @@
-﻿IEnumerable<int> DailyTemperatures(IReadOnlyList<int> temperatures)
+﻿using System;
+using System.Collections.Generic;
+
+IEnumerable<int> DailyTemperatures(IReadOnlyList<int> temperatures)
 {
     var stack = new int[temperatures.Count];
     var top = -1;

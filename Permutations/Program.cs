@@ -1,4 +1,7 @@
-﻿IEnumerable<IList<int>> Permute(IReadOnlyList<int> nums)
+﻿using System;
+using System.Collections.Generic;
+
+IEnumerable<IList<int>> Permute(IReadOnlyList<int> nums)
 {
     var n = nums.Count;
 

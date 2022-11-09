@@ -1,4 +1,8 @@
-﻿IEnumerable<IList<int>> Subsets(IEnumerable<int> nums)
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+IEnumerable<IList<int>> Subsets(IEnumerable<int> nums)
 {
     var result = new List<IList<int>> { new List<int>() };
     foreach (var num in nums)

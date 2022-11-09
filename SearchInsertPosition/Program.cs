@@ -1,4 +1,7 @@
-﻿int SearchInsertPosition(IReadOnlyList<int> nums, int target)
+﻿using System;
+using System.Collections.Generic;
+
+int SearchInsertPosition(IReadOnlyList<int> nums, int target)
 {
     var start = 0;
     var end = nums.Count - 1;

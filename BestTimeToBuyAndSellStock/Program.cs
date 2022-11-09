@@ -1,4 +1,7 @@
-﻿int MaxProfit(IReadOnlyList<int> prices)
+﻿using System;
+using System.Collections.Generic;
+
+int MaxProfit(IReadOnlyList<int> prices)
 {
     int maxPrice = 0, maxProfit = 0;
     for (var i = 0; i < prices.Count; i++)

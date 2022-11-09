@@ -1,4 +1,7 @@
-﻿bool IsValid(string s)
+﻿using System;
+using System.Collections.Generic;
+
+bool IsValid(string s)
 {
     var stack = new Stack<char>();
 

@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsets", "Subsets\Subsets.csproj", "{0C9AA178-2D41-4CA0-8343-5DB5FB09CED7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{CAD7C495-249B-421F-A98E-0E8EA97FCE67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,7 @@ Global
 		{1D57B63C-1861-426F-9C7F-80ED446841A2} = {8524891A-A219-4063-8C0A-4590BB29E958}
 		{E8C14DB5-718D-4D1E-8387-60C8123525FC} = {8524891A-A219-4063-8C0A-4590BB29E958}
 		{0C9AA178-2D41-4CA0-8343-5DB5FB09CED7} = {8524891A-A219-4063-8C0A-4590BB29E958}
+		{CAD7C495-249B-421F-A98E-0E8EA97FCE67} = {8524891A-A219-4063-8C0A-4590BB29E958}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B1696D7E-19CF-49BF-8F3F-76B15028AAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -93,5 +96,9 @@ Global
 		{0C9AA178-2D41-4CA0-8343-5DB5FB09CED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C9AA178-2D41-4CA0-8343-5DB5FB09CED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C9AA178-2D41-4CA0-8343-5DB5FB09CED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD7C495-249B-421F-A98E-0E8EA97FCE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD7C495-249B-421F-A98E-0E8EA97FCE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD7C495-249B-421F-A98E-0E8EA97FCE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD7C495-249B-421F-A98E-0E8EA97FCE67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
