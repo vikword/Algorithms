@@ -1,4 +1,6 @@
-﻿int MajorityElement(int[] nums)
+﻿using System;
+
+int MajorityElement(int[] nums)
 {
     Array.Sort(nums);
     return nums[nums.Length / 2];

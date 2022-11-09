@@ -1,4 +1,7 @@
-﻿string TwoSum(IReadOnlyList<int> nums, int target)
+﻿using System;
+using System.Collections.Generic;
+
+string TwoSum(IReadOnlyList<int> nums, int target)
 {
     for (var num = 0; num < nums.Count; num++)
     {
